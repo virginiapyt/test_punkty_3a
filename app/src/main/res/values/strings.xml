@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">kopiatestu3a</string>
+    <string name="q1">Które góry leżą w Polsce</string>
+
+    <string name="a1_a">Alpy</string>
+
+    <string name="a1_b">Sudety</string>
+
+    <string name="a1_c">Beskidy</string>
+
+    <string name="q2">Wybierz szczyty Bieszczadzkie</string>
+
+    <string name="a2_a">Wielka Racza</string>
+
+    <string name="a2_b">Tarnica</string>
+
+    <string name="a2_c">Krzemieniec</string>
+
+    <string name="q3">Górami Beskidu Żywieckiego są</string>
+
+    <string name="a3_a">Wielka Rycerzowa</string>
+
+    <string name="a3_b">Pilsko</string>
+
+    <string name="a3_c">Babia Góra</string>
+
+    <string name="next">Następne pytanie</string>
+    <string name="zacznij">Zacznij od nowa</string>
+</resources>
